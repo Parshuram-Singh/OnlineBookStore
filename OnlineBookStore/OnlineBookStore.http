@@ -1,0 +1,3 @@
+@OnlineBookStore_HostAddress = http://localhost:5296
+
+http://localhost:5296/api/v1/Books
